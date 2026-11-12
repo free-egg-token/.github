@@ -44,7 +44,8 @@ curl https://free-egg.liuxiaozhen.dev/v1/chat/completions \
   }'
 ```
 
-And receive the most advanced AI response ever created:
+<!--
+nd receive the most advanced AI response ever created:
 
 ```text
        _______
@@ -57,6 +58,8 @@ And receive the most advanced AI response ever created:
 ```
 
 Congratulations! You've successfully generated an egg.
+
+-->
 
 ## 🧬 Supported Models
 
