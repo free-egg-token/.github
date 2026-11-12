@@ -30,7 +30,7 @@ No complicated setup. No expensive GPU. No machine learning expertise required.
 Simply send a request:
 
 ```bash
-curl https://YOUR_API_ENDPOINT/v1/chat/completions \
+curl https://free-egg.liuxiaozhen.dev/v1/chat/completions \
   -H "Authorization: Bearer sk-your-egg-token" \
   -H "Content-Type: application/json" \
   -d '{
